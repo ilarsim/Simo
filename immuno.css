@@ -7,8 +7,8 @@
 .tscplayer_inline {
  position:static;
  margin: 30px;
- width: 280px;
- height: 124px;
+ width: 720px;
+ height: 574px;
  z-index:auto;
 }
 
@@ -22,7 +22,7 @@
 	z-index: 9999;	
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 720px) {
     .tscplayer_inline {
 	width: 100%;
     }
