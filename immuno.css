@@ -4,13 +4,7 @@
    z-index: 9999;	
 }
 
-.tscplayer_inline {
-	position:static;
-	margin: 30px;
-	width: 420px;
-	height: 420px;
-	z-index:auto;
-}
+
 
 .tscplayer_fullframe {
 	position:absolute;
